@@ -68,12 +68,12 @@ padding: 3rem 18 rem;
 .sec2{
     display: none;
     transform: translateY(0) scale(1);
-    background-color: rgb(183, 127, 55);
+    background-color: rgb(88, 60, 22);
 }
 .sec3{
     display: none;
     transform: translateY(0) scale(1);
-    background-color: slateblue;
+    background-color: rgb(42, 35, 83);
 }
 
 
@@ -373,6 +373,8 @@ padding: 3rem 18 rem;
 height: 80vh;
 width: 100%;
 display: flex;
+padding-left: 30px;
+margin-bottom: 90px;
 }
 
 .town-top-banner img{
