@@ -175,7 +175,7 @@ body{
 
 
 
-    /*  */
+    /* favourit */
     #town{
         padding-top: 10px !important;
     }
@@ -196,6 +196,31 @@ body{
     .about-stats{
         padding: 20px 30px !important;
     }
+
+
+
+/* town
+*/
+
+.town-intro-cards{
+    display: block !important;
+}
+
+.card-container{
+    margin: 10px 4px !important;
+}
+
+
+.town-top-banner{
+    display: block !important;
+    margin: 20px 0px;
+    height: 220vh !important;
+}
+.town-top-banner img{
+    width: 100%;
+}
+
+
 
 
 
