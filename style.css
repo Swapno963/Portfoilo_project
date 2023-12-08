@@ -268,7 +268,8 @@ padding: 3rem 18 rem;
 }
 .sec2{
     transform: translateY(0) scale(1);
-    background-color: rgb(88, 60, 22);
+    background-color: #176164;
+    
 }
 .sec3{
     transform: translateY(0) scale(1);
