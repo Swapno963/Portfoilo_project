@@ -7,6 +7,31 @@
 
 /* for google fonts */
 
+
+
+
+/* doc sheet */
+p{
+    color: #b2becd;
+}
+
+.control a:hover{
+   font-size: 30px;
+}
+
+#name{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+/* At least one selector for two or more tags
+ for favourit
+ */
+h4,p{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+ 
 body{
     font-family: 'Hedvig Letters Sans', sans-serif;
     background-color: var(--color-primary);
@@ -328,10 +353,8 @@ padding: 3rem 18 rem;
     flex-direction: column;
     justify-content: center;
     padding-right: 18rem;
-    .name {
-        font-size: 3rem;
-        span { color: var(--color-secondary); }
-    }
+   
+
    
 }
 
